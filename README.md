@@ -7,7 +7,13 @@
   <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
 </a>
 <a href="https://www.facebook.com/faris.mohammed511">
-  <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" />
+  <img align="left" alt="Faris | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCPtkPn6CMSWAAt7ZvD0Ne2A/">
+  <img align="left" alt="Faris | YouTube" width="21px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />
+</a>
+<a href="https://www.linkedin.com/in/faris-al-otaibi-930763177/">
+  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <br />
 <br />

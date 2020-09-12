@@ -17,12 +17,14 @@
 </a>
 <br />
 <br />
-I am a Web Developer from Saudi Arabia (:
+I am a Full-Stack Web Developer from Saudi Arabia (:
 
-- 🔭 I’m currently working on EnterpriseCo
+- 🔭 I’m currently working on BlackNET_API
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: farisksa79@protonmail.com
 
 ![BlackHacker's github stats](https://github-readme-stats.vercel.app/api?username=FarisCode511&hide=["issues"]&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarisCode511)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codersrank](https://f.top4top.io/p_1716ik3ba1.png)](https://profile.codersrank.io/user/fariscode511/)

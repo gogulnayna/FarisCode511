@@ -19,7 +19,7 @@
 <br />
 I am a Full-Stack Web Developer from Saudi Arabia (:
 
-- 🔭 I’m currently working on BlackNET_API
+- 🔭 I’m currently working on [ Nothing ]
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: farisksa79@protonmail.com
 

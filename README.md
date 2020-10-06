@@ -23,8 +23,26 @@ I am a Full-Stack Web Developer from Saudi Arabia (:
 - 🌱 I’m currently learning VueJS
 - 📫 How to reach me: farisksa79@protonmail.com
 
-![BlackHacker's github stats](https://github-readme-stats.vercel.app/api?username=FarisCode511&hide=["issues"]&show_icons=true)
+### 🔧 Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarisCode511)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
+
+### 📊 My Stats
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarisCode511&hide=["issues"]&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisCode511&&hide=ruby,visual basic" />
+</a>
 
 [![codersrank](https://f.top4top.io/p_1716ik3ba1.png)](https://profile.codersrank.io/user/fariscode511/)

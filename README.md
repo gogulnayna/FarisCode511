@@ -45,4 +45,4 @@ I am a Full-Stack Web Developer from Saudi Arabia (:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisCode511&&hide=ruby,visual basic" />
 </a>
 
-[![codersrank](https://f.top4top.io/p_1716ik3ba1.png)](https://profile.codersrank.io/user/fariscode511/)
+[![codersrank](https://f.top4top.io/p_1740zsb0n1.png)](https://profile.codersrank.io/user/fariscode511/)

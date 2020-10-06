@@ -36,7 +36,7 @@ I am a Full-Stack Web Developer from Saudi Arabia (:
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 
-### 📊 My Stats
+### 📊 My Account Statistics
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarisCode511&hide=["issues"]&show_icons=true" />

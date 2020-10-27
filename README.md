@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-I am a Full-Stack Web Developer from Saudi Arabia <img align="left" alt="Faris | Facebook" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/330/330552.svg" />
+I am a Full-Stack Web Developer from Saudi Arabia 🇸🇦
 
 - 🔭 I’m currently working on BlackStealer
 - 🌱 I’m currently learning VueJS

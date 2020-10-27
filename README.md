@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-I am a Full-Stack Web Developer from Saudi Arabia (:
+I am a Full-Stack Web Developer from Saudi Arabia 🇸🇦
 
 - 🔭 I’m currently working on BlackStealer
 - 🌱 I’m currently learning VueJS
